@@ -1,7 +1,6 @@
--
-title: Contact Info
-layout: default
--
+
+# **Contact Info**
+
 Feel free to contact me at douglas.stephan@uconn.edu.
 
 Postal address: 
