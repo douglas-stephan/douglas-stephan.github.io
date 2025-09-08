@@ -1,4 +1,4 @@
-![Image of Douglas Stephan](C:/Users/dougl/Pictures/headshot_2.jpg "REPLACE_WITH_SHORT_DESCRIPTION")
+![Image of Douglas Stephan](images/headshot_2.jpg "REPLACE_WITH_SHORT_DESCRIPTION")
 
 ## About Me
 I am a PHD student in the UConn EEB department interested in taxonomy and systematics of parasitic copepods.
