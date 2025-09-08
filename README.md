@@ -3,6 +3,6 @@
 ## About Me
 I am a PHD student in the UConn EEB department interested in taxonomy and systematics of parasitic copepods.
 
-[My CV](PDFs/cv.pdf)
+[My CV](PDFs/Douglas Stephan 2024 CV.pdf)
 
 [Contact Info](contact-info.html) 
