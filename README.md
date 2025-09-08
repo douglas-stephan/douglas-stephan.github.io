@@ -5,4 +5,4 @@ I am a PHD student in the UConn EEB department interested in taxonomy and system
 
 [My CV](PDFs/cv.pdf)
 
-[Contact Info](contact-info.md) 
+[Contact Info](contact-info.html) 
