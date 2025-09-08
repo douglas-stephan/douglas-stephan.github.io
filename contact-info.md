@@ -1,6 +1,6 @@
 title: Contact Info
 layout: default
----
+
 
 Feel free to contact me at douglas.stephan@uconn.edu.
 
